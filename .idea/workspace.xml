@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a92368a-5152-498e-a59e-d06afe0e7543" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hospitaldatabase@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1974421817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="SCHEMA:hospitaldatabase" value="1" />
+          <entry key="admitpatient_room" value="1" />
+          <entry key="bill_room" value="1" />
+          <entry key="dischargepatient_room" value="1" />
+          <entry key="doctor" value="1" />
+          <entry key="form" value="7" />
+          <entry key="java" value="10" />
+          <entry key="jpg" value="4" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="4" />
+          <entry key="GUI_DESIGNER_FORM" value="7" />
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="10" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="877156982">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="form" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hp_mgmt_db.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/107be34b-1257-4652-af4d-5c179a017a00/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HastaKaydi.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hastane Yönetim Sistemi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hastane Yönetim Sistemi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hastane Yönetim Sistemi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hastane Yönetim Sistemi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a92368a-5152-498e-a59e-d06afe0e7543" name="Default Changelist" comment="" />
+      <created>1546039039613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546039039613</updated>
+      <workItem from="1546039045288" duration="50000" />
+      <workItem from="1546097597773" duration="2303000" />
+      <workItem from="1546119024371" duration="440000" />
+      <workItem from="1546592295161" duration="833000" />
+      <workItem from="1546593349288" duration="349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3975000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="SQL Generator" order="12" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.32684565" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/About.form" />
+    <entry file="file://$PROJECT_DIR$/src/LIV-Hospital.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/NewUser.form" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/UserRecord.form" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/UserRecord.java" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/About.form" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/Bill_Room.form" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/Bill_Room.java" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/Bill_RoomRec.java" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/ChangePassword.java" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/Connect.java" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/DocRec.form" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/Entry.form" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/Entry.java" />
+    <entry file="file://$PROJECT_DIR$/screenshots/welcome_screen.jpg" />
+    <entry file="file://$PROJECT_DIR$/screenshots/room_add.jpg" />
+    <entry file="file://$PROJECT_DIR$/screenshots/patient_admit.jpg" />
+    <entry file="file://$PROJECT_DIR$/Hospital-Management-master/src/DocRec.java" />
+    <entry file="das://107be34b-1257-4652-af4d-5c179a017a00/schema/hospitaldatabase/table/admitpatient_room" />
+    <entry file="das://107be34b-1257-4652-af4d-5c179a017a00/schema/hospitaldatabase/table/bill_room" />
+    <entry file="das://107be34b-1257-4652-af4d-5c179a017a00/schema/hospitaldatabase/table/dischargepatient_room" />
+    <entry file="das://107be34b-1257-4652-af4d-5c179a017a00/schema/hospitaldatabase/table/doctor" />
+    <entry file="uml://DATABASE/107be34b-1257-4652-af4d-5c179a017a00.SCHEMA:hospitaldatabase">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>107be34b-1257-4652-af4d-5c179a017a00.SCHEMA:hospitaldatabase</OriginalElement>
+          <nodes>
+            <node x="426.5" y="300.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.services</node>
+            <node x="0.0" y="0.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.doctor</node>
+            <node x="426.0" y="0.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.patientregistration</node>
+            <node x="506.0" y="507.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.dischargepatient_room</node>
+            <node x="0.0" y="802.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.users</node>
+            <node x="286.0" y="507.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.registration</node>
+            <node x="198.0" y="66.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.room</node>
+            <node x="0.0" y="507.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.bill_room</node>
+            <node x="97.25" y="300.0">107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.admitpatient_room</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.admitpatient_room" target="107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.room">
+              <point x="46.0" y="-81.0" />
+              <point x="235.25" y="275.0" />
+              <point x="289.5" y="275.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.admitpatient_room" target="107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.doctor">
+              <point x="-46.0" y="-81.0" />
+              <point x="143.25" y="275.0" />
+              <point x="89.0" y="275.0" />
+              <point x="0.0" y="125.0" />
+            </edge>
+            <edge source="107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.services" target="107be34b-1257-4652-af4d-5c179a017a00.TABLE:hospitaldatabase.patientregistration">
+              <point x="0.0" y="-70.0" />
+              <point x="0.0" y="125.0" />
+            </edge>
+          </edges>
+          <settings layout="Hıerarchıc Group" zoom="0.5357142857142857" x="345.0" y="438.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hp_mgmt_db.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/107be34b-1257-4652-af4d-5c179a017a00/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HastaKaydi.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+  </component>
+</project>
